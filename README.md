@@ -1,9 +1,9 @@
 # Hi, I'm Supun Dhananji 👋
 
-🎓 Computer Engineering Undergraduate at University of Peradeniya  
-💻 Aspiring Software Engineer | Full Stack Web Developer (Internship)
+🎓 Computer Engineering Graduate at University of Peradeniya  
+💻 Aspiring Software Engineer | Full Stack Web Developer 
 
-I build secure, scalable full-stack web applications using **ASP.NET Core, Spring Boot, React**, and **PostgreSQL**.  
+I build secure, scalable full-stack web applications using **Java, ASP.NET Core, Spring Boot, React**, and **PostgreSQL**.  
 I also work on **LLM-powered developer tools** and have experience integrating **hardware + software systems**.
 
 ---
